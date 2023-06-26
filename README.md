@@ -1,2 +1,2 @@
-# 22mEta
-22mEta is metadata management system.
+# double2meta
+double2meta is metadata management system.
